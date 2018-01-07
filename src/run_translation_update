@@ -1,0 +1,3 @@
+lupdate-qt4 -verbose *.h *.cpp -ts memory_de.ts
+linguist-qt4 memory_de.ts
+lrelease-qt4 memory_de.ts  
